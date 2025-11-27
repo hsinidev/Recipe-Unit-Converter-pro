@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://recipeunitconverter.doodax.com" target="_blank">🚀 LIVE DEMO &raquo;</a></strong>
+  <strong><a href="https://doodax.com/tools/recipe-unit-converter/index.html" target="_blank">🚀 LIVE DEMO &raquo;</a></strong>
 </p>
 
 ---
