@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Recipe Unit Converter Pro
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Recipe%20Unit%20Converter%20Pr&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Recipe Unit Converter Pro Header Banner" />
+
+  <h1>🚀 Recipe Unit Converter Pro</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Recipe-Unit-Converter-pro"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Recipe Unit Converter Pro** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,106 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Recipe Unit Converter
-
-<p align="center">
-</p>
-
-<p align="center">
-  An elegant, modern, and highly accurate tool for all your kitchen measurement conversion needs. Built with React, TypeScript, and Tailwind CSS to provide a seamless, beautiful, and friendly user experience.
-</p>
-
-<p align="center">
-  <strong><a href="https://doodax.com/tools/recipe-unit-converter/index.html" target="_blank">🚀 LIVE DEMO &raquo;</a></strong>
-</p>
-
----
-
-## 🌟 Overview
-
-Say goodbye to kitchen conversion confusion! The **Recipe Unit Converter** is a free, professional-grade web application designed to provide instant and accurate conversions for grams, ounces, cups, milliliters, and more. 
-
-Whether you're a professional chef adjusting a formula or a home cook tackling a new recipe, this tool helps you perfect your measurements with precision and confidence. The interface features a stunning, animated galaxy background to make your time in the kitchen a little more magical.
-
-## ✨ Key Features
-
--   **🚀 Instant & Accurate Conversions**: Real-time results for Mass (grams, kg, oz, lbs) and Volume (ml, L, cups, tbsp, tsp).
--   **🌌 Immersive Galaxy UI**: A fully animated, multi-layered cosmic background with twinkling stars and floating nebula effects.
--   **⚖️ Smart Category Logic**: Intelligently handles conversion rules, preventing invalid mass-to-volume swaps without density context.
--   **📱 Fully Responsive**: Optimized for mobile phones, tablets, and desktops.
--   **📚 SEO Optimized**: Includes extensive JSON-LD schema, meta tags, and a comprehensive 3500+ word guide on measurement science.
--   **⚡ High Performance**: Built with Vite and React 18 for blazing-fast load times.
--   **🔒 Privacy Focused**: All calculations happen client-side. No data is ever sent to a server.
-
-## 📂 Project Structure
-
-```
-recipe-unit-converter/
-├── public/
-│   ├── favicon.svg        # Site icon
-│   ├── robots.txt         # Crawler instructions
-│   └── sitemap.xml        # SEO site map
-├── src/
-│   ├── components/
-│   │   ├── icons/         # SVG Icon components
-│   │   ├── Layout.tsx     # Main wrapper with Background, Navbar, Footer
-│   │   ├── Modal.tsx      # Reusable modal for info pages
-│   │   ├── SeoArticle.tsx # Long-form SEO content component
-│   │   └── UnitConverterTool.tsx # Core application logic UI
-│   ├── lib/
-│   │   ├── ConversionLogic.ts # Pure function math logic
-│   │   └── UnitRatios.ts      # Unit definitions and base factors
-│   ├── types.ts           # TypeScript interfaces
-│   ├── App.tsx            # Main application entry
-│   └── index.tsx          # React DOM root
-├── index.html             # HTML entry point with SEO meta tags
-├── package.json           # Dependencies and scripts
-└── README.md              # Documentation
-```
-
-## 🛠️ Technology Stack
-
--   **Core**: React 18, TypeScript
--   **Styling**: Tailwind CSS (with Typography plugin)
--   **Icons**: Custom SVG Components
--   **Build Tool**: Vite
-
-## 🚀 Getting Started
-
-To get a local copy up and running:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone https://github.com/hsinidev/recipe-unit-converter.git
-    cd recipe-unit-converter
-    ```
-
-2.  **Install dependencies:**
-    ```sh
-    npm install
-    ```
-
-3.  **Start the development server:**
-    ```sh
-    npm run dev
-    ```
-
-4.  Open `http://localhost:5173` in your browser.
-
-
-Designed and developed with ❤️ by **HSINI MOHAMED**.
-
--   **GitHub**: [@hsinidev](https://github.com/hsinidev)
--   **Website**: [doodax.com](https://doodax.com)
--   **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-
----
-
-&copy; 2023 Recipe Unit Converter. All Rights Reserved.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
